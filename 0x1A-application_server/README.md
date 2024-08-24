@@ -1,1 +1,1 @@
-0x1A-application server
+APPLICATION SERVER
